@@ -1,0 +1,16 @@
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\ProductsApp.dll
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\ProductsApp.pdb
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Web.Http.dll
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Web.Http.xml
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Debug\ProductsApp.csproj.CopyComplete
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\v-trmadd\Downloads\Bootcamp Samples\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Debug\ProductsApp.pdb
