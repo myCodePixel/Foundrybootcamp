@@ -1,3 +1,6 @@
+Install Visual Studio Code
+https://az764295.vo.msecnd.net/stable/d0182c3417d225529c6d5ad24b7572815d0de9ac/VSCodeSetup-x64-1.23.1.exe
+
 Install Node Js
 https://nodejs.org/dist/v10.1.0/node-v10.1.0-x64.msi
 
@@ -6,5 +9,4 @@ https://yarnpkg.com/latest.msi
 
 open command prompt and type
 npm install -g lite-server
-
 npm install -g create-react-app
